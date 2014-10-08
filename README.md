@@ -1,4 +1,4 @@
-Setting Up Private Bower
+Setting up Private Bower
 ========================
 
 Guide to Using Private Bower
