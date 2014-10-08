@@ -23,7 +23,7 @@ I prefer to install node.js via [Node Version Manager (NVM)](https://github.com/
 # Install NVM
 curl https://raw.githubusercontent.com/creationix/nvm/v0.17.2/install.sh | bash
 ```
-
+*You may need to restart your shell at this point to use nvm.
 ```shell
 # Install node and set the defaults
 nvm install v0.10.32 && nvm use v0.10.32 && nvm alias default v0.10.32
